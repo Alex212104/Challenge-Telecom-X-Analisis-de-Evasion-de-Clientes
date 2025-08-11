@@ -1,4 +1,4 @@
-# 📊 Challenge Telecom X - Análisis de Evasión de Clientes (Churn)
+# Challenge Telecom X - Análisis de Evasión de Clientes (Churn)
 
 Este proyecto tiene como objetivo analizar los datos de clientes de una empresa de telecomunicaciones para identificar patrones y factores asociados con la **evasión de clientes** (Churn).  
 Se aplicaron técnicas de limpieza, transformación y análisis exploratorio de datos para obtener **insights** que puedan ayudar a reducir la tasa de abandono.
@@ -52,5 +52,5 @@ Se aplicaron técnicas de limpieza, transformación y análisis exploratorio de 
 
 ---
 
-## 📜 Licencia
+## Licencia
 Este proyecto es de uso educativo y puede ser adaptado libremente.
